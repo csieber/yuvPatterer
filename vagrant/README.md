@@ -11,7 +11,7 @@ Clone the repository, spin up the VM and ssh into the machine:
 
 ```bash
 git clone git@github.com:csieber/yuvPatterer.git
-cd yuvPatterer/
+cd yuvPatterer/vagrant/
 
 vagrant up
 vagrant shh
